@@ -1,0 +1,18 @@
+.traffic-light-container
+{
+  width: 100px;
+  height: 310px;
+  padding: 5px;
+  background-color: grey;
+  margin: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.light{
+  width: 90px;
+  height: 90px;
+  border-radius: 100px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
